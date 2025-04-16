@@ -1,0 +1,29 @@
+.add-expense-container {
+    margin-top: 2rem;
+  }
+  
+  .add-expense-paper {
+    padding: 2rem;
+  }
+  
+  .title {
+    text-align: center;
+    margin-bottom: 1rem;
+    font-weight: bold;
+  }
+  
+  .add-expense-form {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+  
+  .form-control {
+    margin-bottom: 1rem;
+  }
+  
+  .button-container {
+    text-align: center;
+    margin-top: 1rem;
+  }
+  

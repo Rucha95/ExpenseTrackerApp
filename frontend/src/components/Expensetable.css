@@ -1,0 +1,31 @@
+.expense-container {
+    margin-top: 2rem;
+  }
+  
+  .expense-paper {
+    padding: 2rem;
+  }
+  
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1.5rem;
+  }
+  
+  .title {
+    font-weight: bold;
+  }
+  
+  .total-box {
+    margin-bottom: 1rem;
+  }
+  
+  .table-container {
+    margin-top: 1rem;
+  }
+  
+  .loading-container {
+    min-height: 100vh;
+  }
+  

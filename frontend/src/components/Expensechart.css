@@ -1,0 +1,44 @@
+/* Container for the chart */
+.chart-container {
+    max-width: 600px;
+    height: 400px;
+    margin: 2rem auto;
+    text-align: center;
+    background-color: #f9f9f9;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  /* Typography for the loading message */
+  .loading-text {
+    font-size: 1rem;
+    font-weight: 500;
+    color: #555;
+    margin-top: 2rem;
+  }
+  
+  /* Doughnut chart styling */
+  .chart-wrapper {
+    position: relative;
+    width: 100%;
+    height: 100%;
+  }
+  
+  /* Legend styling */
+  .chart-legend {
+    margin-top: 1rem;
+    font-size: 0.9rem;
+    color: #333;
+  }
+  
+  /* Hover effect on the legend */
+  .chart-legend-item:hover {
+    color: #007bff;
+    cursor: pointer;
+  }
+  
